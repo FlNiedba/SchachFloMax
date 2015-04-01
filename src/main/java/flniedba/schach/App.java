@@ -2,7 +2,7 @@ package flniedba.schach;
 
 /**
  * Hello world!
- *
+ * Test
  */
 public class App 
 {
